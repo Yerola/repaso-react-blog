@@ -1,6 +1,4 @@
 # repaso-react-blog
-![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/7d374da6-eec6-487d-9069-a2b2d03cc2f6)
-
 ![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/a084b966-efab-4c75-9ac2-e954bdba7612)
 
 repaso-react-blog con React by Emiliano Alfonso
@@ -92,3 +90,6 @@ facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/
 ### `npm run build` falla al minificar
 
 Esta sección se ha trasladado aquí: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/7d374da6-eec6-487d-9069-a2b2d03cc2f6)
+
