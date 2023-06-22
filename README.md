@@ -13,6 +13,8 @@ https://developer.mozilla.org/es/docs/Web/HTML/Element/article
 
 https://www.linkedin.com/in/emiliano-alfonso/
 
+https://youtu.be/bNoEr4gCbH4
+
 ![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/0d9ebdec-c18b-44be-8d8c-c70297c03eed)
 
 
