@@ -1,4 +1,8 @@
 # repaso-react-blog
+![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/7d374da6-eec6-487d-9069-a2b2d03cc2f6)
+
+![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/a084b966-efab-4c75-9ac2-e954bdba7612)
+
 repaso-react-blog con React by Emiliano Alfonso
 
 Enlaces de interés vistos, compartidos y/o mencionados durante el desarrollo del tema:
@@ -10,6 +14,9 @@ https://reactrouter.com/en/main/hooks/use-navigate
 https://developer.mozilla.org/es/docs/Web/HTML/Element/article
 
 https://www.linkedin.com/in/emiliano-alfonso/
+
+![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/0d9ebdec-c18b-44be-8d8c-c70297c03eed)
+
 
 -------------------------------------------------------------------------------------------------
 
