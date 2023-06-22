@@ -1,5 +1,6 @@
 # repaso-react-blog
-![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/a084b966-efab-4c75-9ac2-e954bdba7612)
+![image](https://github.com/Yerola/repaso-react-blog/assets/108998939/a8fae661-41fb-40d2-b425-34c4ea554966)
+
 
 repaso-react-blog con React by Emiliano Alfonso
 
